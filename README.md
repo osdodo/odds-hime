@@ -4,10 +4,8 @@ AI-Powered Sports Odds Prediction — Real-time AI monitoring of live sports str
 
 ## Screenshots
 
-<div style="display: flex; gap: 20px; flex-wrap: wrap;">
-  <img src="screenshots/1.jpg" alt="Screenshot 1" width="45%" />
-  <img src="screenshots/2.jpg" alt="Screenshot 2" width="45%" />
-</div>
+<img src="screenshots/1.jpg" alt="Screenshot 1" width="100%" />
+<img src="screenshots/2.jpg" alt="Screenshot 2" width="100%" />
 
 ## Getting Started
 
